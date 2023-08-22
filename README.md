@@ -1,7 +1,9 @@
 # Apps-terminator
 An script that helps terminate running processes on a Windows system. Here's an explanation of how to use it:
 
-**Instead of doing these steps, you can download and run the file from the release section**
+Instead of doing these steps, you can download and run the file from this link 
+https://github.com/Rainman69/Apps-terminator/blob/main/kill%20running.bat
+
 
 1. Open a text editor:
 
